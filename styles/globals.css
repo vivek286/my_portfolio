@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.one {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.one:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.two {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.two:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.three {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.three:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.four {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.four:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.five {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.five:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.six-ui {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.six-ui:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+.seven {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.seven:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+
+.eight {
+  border: 2px solid rgb(0, 112, 243);
+}
+.eight:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.nine {
+  border: 2px solid rgb(6, 182, 212);
+}
+.nine:hover {
+  background: rgba(6, 182, 212, 0.25);
+}
+
+.ten {
+  border: 2px solid rgb(255, 65, 84);
+}
+.ten:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+
+.eleven {
+  border: 2px solid rgb(21, 114, 182);
+}
+.eleven:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
