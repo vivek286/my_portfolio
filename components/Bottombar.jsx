@@ -1,8 +1,10 @@
 import ErrorIcon from './icons/ErrorIcon';
+import StarIcon from './icons/StarIcon';
 import WarningIcon from './icons/WarningIcon';
 import BellIcon from './icons/BellIcon';
 import CheckIcon from './icons/CheckIcon';
 import NextjsIcon from './icons/NextjsIcon';
+
 import SourceControlIcon from './icons/SourceControlIcon';
 import styles from '../styles/Bottombar.module.css';
 
@@ -30,6 +32,10 @@ const Bottombar = () => {
         <div className={styles.section}>
           <NextjsIcon className={styles.icon} />
           <p>Powered by Next.js</p>
+        </div>
+        <div className={styles.section}>
+          <StarIcon className={styles.icon} />
+          <p>Vivek Solanki</p>
         </div>
         <div className={styles.section}>
           <CheckIcon className={styles.icon} />
