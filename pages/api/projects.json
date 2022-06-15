@@ -32,7 +32,7 @@
     "description": "A themeable and developer-centric portfolio based on the VSCode",
     "tags": ["next", "css-modules"],
     
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "demo": "https://my-portfolio-navy-phi.vercel.app/"
   },
   {
     "id": 5,
